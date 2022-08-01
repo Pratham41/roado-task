@@ -1,0 +1,14 @@
+.tp {
+    border: 0 !important;
+    color: white !important;
+    outline: none;
+    background-color: #4652B4 !important;
+    width: 100%;
+    font-size: large;
+    font-weight: bold;
+}
+
+::placeholder {
+    color: white;
+    font-size: medium;
+  }
